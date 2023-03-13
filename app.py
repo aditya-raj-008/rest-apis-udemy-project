@@ -66,3 +66,6 @@ def get_store1(name):
         if store["name"]==name:
             return {"items":store["items"]}
     return {"message":"store not found"}, 404
+
+def run():
+    pass
