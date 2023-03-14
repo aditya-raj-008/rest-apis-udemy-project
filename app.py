@@ -69,4 +69,6 @@ def get_store1(name):
 
 def run():
     print("hello branch 1.1 which is in trial mode")
+    print("hello this is main branch")
+
     
