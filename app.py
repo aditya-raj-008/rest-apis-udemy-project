@@ -76,4 +76,7 @@ def get_item(item_id):
 def get_all_items():
     return {"items":list(items.values())}
 
+def test():
+    pass
+
     
